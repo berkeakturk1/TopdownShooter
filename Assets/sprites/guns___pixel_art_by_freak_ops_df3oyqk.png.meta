@@ -1,0 +1,649 @@
+fileFormatVersion: 2
+guid: 84cd3369acb920143836e0c75693445e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7804569122796127530
+    second: guns___pixel_art_by_freak_ops_df3oyqk_0
+  - first:
+      213: 1396613929548639245
+    second: guns___pixel_art_by_freak_ops_df3oyqk_1
+  - first:
+      213: -2461811318261105785
+    second: guns___pixel_art_by_freak_ops_df3oyqk_2
+  - first:
+      213: -3993940148119533393
+    second: guns___pixel_art_by_freak_ops_df3oyqk_3
+  - first:
+      213: 4171918675630077682
+    second: guns___pixel_art_by_freak_ops_df3oyqk_4
+  - first:
+      213: -580369918253483258
+    second: guns___pixel_art_by_freak_ops_df3oyqk_5
+  - first:
+      213: 6459637246105611838
+    second: guns___pixel_art_by_freak_ops_df3oyqk_6
+  - first:
+      213: 8969030734460436052
+    second: guns___pixel_art_by_freak_ops_df3oyqk_7
+  - first:
+      213: 6588703023760085754
+    second: guns___pixel_art_by_freak_ops_df3oyqk_8
+  - first:
+      213: 2701738081017759309
+    second: guns___pixel_art_by_freak_ops_df3oyqk_9
+  - first:
+      213: -4517148636262011727
+    second: guns___pixel_art_by_freak_ops_df3oyqk_10
+  - first:
+      213: 534749067332387188
+    second: guns___pixel_art_by_freak_ops_df3oyqk_11
+  - first:
+      213: -4318210501714269113
+    second: guns___pixel_art_by_freak_ops_df3oyqk_12
+  - first:
+      213: 5933210214299371278
+    second: guns___pixel_art_by_freak_ops_df3oyqk_13
+  - first:
+      213: 6243708243253220675
+    second: guns___pixel_art_by_freak_ops_df3oyqk_14
+  - first:
+      213: 2885277650999597683
+    second: guns___pixel_art_by_freak_ops_df3oyqk_15
+  - first:
+      213: 4892974620257319586
+    second: guns___pixel_art_by_freak_ops_df3oyqk_16
+  - first:
+      213: 4965501215819781107
+    second: guns___pixel_art_by_freak_ops_df3oyqk_17
+  - first:
+      213: -8918115901441680561
+    second: guns___pixel_art_by_freak_ops_df3oyqk_18
+  - first:
+      213: -268304685241025
+    second: guns___pixel_art_by_freak_ops_df3oyqk_19
+  - first:
+      213: 5093879444514394418
+    second: guns___pixel_art_by_freak_ops_df3oyqk_20
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 415
+        width: 82
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da31c2bbb990b390800000000000000
+      internalID: -7804569122796127530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_1
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 419
+        width: 178
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0ceb1728f4c16310800000000000000
+      internalID: 1396613929548639245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_2
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 403
+        width: 142
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bb20736a3e5ddd0800000000000000
+      internalID: -2461811318261105785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_3
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 415
+        width: 166
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa80a29989ca298c0800000000000000
+      internalID: -3993940148119533393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_4
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 399
+        width: 90
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6bfb48ee1a5e930800000000000000
+      internalID: 4171918675630077682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_5
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 283
+        width: 122
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bbd2062ac12f7f0800000000000000
+      internalID: -580369918253483258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_6
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 291
+        width: 194
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3ee108c9dd35a950800000000000000
+      internalID: 6459637246105611838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_7
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 283
+        width: 174
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e331bdee5687c70800000000000000
+      internalID: 8969030734460436052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_8
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 303
+        width: 182
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af213cddd76cf6b50800000000000000
+      internalID: 6588703023760085754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_9
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 275
+        width: 114
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46853368708e7520800000000000000
+      internalID: 2701738081017759309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_10
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 163
+        width: 94
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc66f98f3ddf41c0800000000000000
+      internalID: -4517148636262011727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 171
+        width: 174
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 471815a817fcb6700800000000000000
+      internalID: 534749067332387188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 175
+        width: 154
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ca5f37d62a214c0800000000000000
+      internalID: -4318210501714269113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_13
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 183
+        width: 194
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e078801214ff65250800000000000000
+      internalID: 5933210214299371278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_14
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 143
+        width: 94
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3455940119b16a650800000000000000
+      internalID: 6243708243253220675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 35
+        width: 110
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37a543a9cb09a0820800000000000000
+      internalID: 2885277650999597683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 47
+        width: 166
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa70773e7657e340800000000000000
+      internalID: 4892974620257319586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_17
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 35
+        width: 150
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f355b42c0109e440800000000000000
+      internalID: 4965501215819781107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_18
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 51
+        width: 186
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b5ecc76dc7c3480800000000000000
+      internalID: -8918115901441680561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_19
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 19
+        width: 102
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d6b827afb0ffff0800000000000000
+      internalID: -268304685241025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: guns___pixel_art_by_freak_ops_df3oyqk_20
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 3
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 231d1f2cd5811b640800000000000000
+      internalID: 5093879444514394418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      guns___pixel_art_by_freak_ops_df3oyqk_0: -7804569122796127530
+      guns___pixel_art_by_freak_ops_df3oyqk_1: 1396613929548639245
+      guns___pixel_art_by_freak_ops_df3oyqk_10: -4517148636262011727
+      guns___pixel_art_by_freak_ops_df3oyqk_11: 534749067332387188
+      guns___pixel_art_by_freak_ops_df3oyqk_12: -4318210501714269113
+      guns___pixel_art_by_freak_ops_df3oyqk_13: 5933210214299371278
+      guns___pixel_art_by_freak_ops_df3oyqk_14: 6243708243253220675
+      guns___pixel_art_by_freak_ops_df3oyqk_15: 2885277650999597683
+      guns___pixel_art_by_freak_ops_df3oyqk_16: 4892974620257319586
+      guns___pixel_art_by_freak_ops_df3oyqk_17: 4965501215819781107
+      guns___pixel_art_by_freak_ops_df3oyqk_18: -8918115901441680561
+      guns___pixel_art_by_freak_ops_df3oyqk_19: -268304685241025
+      guns___pixel_art_by_freak_ops_df3oyqk_2: -2461811318261105785
+      guns___pixel_art_by_freak_ops_df3oyqk_20: 5093879444514394418
+      guns___pixel_art_by_freak_ops_df3oyqk_3: -3993940148119533393
+      guns___pixel_art_by_freak_ops_df3oyqk_4: 4171918675630077682
+      guns___pixel_art_by_freak_ops_df3oyqk_5: -580369918253483258
+      guns___pixel_art_by_freak_ops_df3oyqk_6: 6459637246105611838
+      guns___pixel_art_by_freak_ops_df3oyqk_7: 8969030734460436052
+      guns___pixel_art_by_freak_ops_df3oyqk_8: 6588703023760085754
+      guns___pixel_art_by_freak_ops_df3oyqk_9: 2701738081017759309
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
